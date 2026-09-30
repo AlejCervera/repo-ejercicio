@@ -1,3 +1,3 @@
 # repo-ejercicio
 
-De que equipo eres?
+De que equipo eres? ceuta
